@@ -39,7 +39,7 @@
 > **Mini Game 案例演示**
 
 <img src="1.jpg?raw=true" width="20%" />
-<a href="1.mp4">点击下载视频</a>
+<a href="https://raw.githubusercontent.com/someone88-tech/RenderEngine/refs/heads/main/1.mp4">点击下载视频</a>
 
 #### 📲 立即下载体验
 
