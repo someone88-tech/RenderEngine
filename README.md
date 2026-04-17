@@ -47,6 +47,18 @@
 
 ---
 
+### 互动游戏 直播 聊天室 语聊房 内嵌游戏案例
+> **Mini Game 案例演示**
+
+<img src="2.jpg?raw=true" width="30%" /><img src="21.jpg?raw=true" width="30%" />
+<a href="https://raw.githubusercontent.com/someone88-tech/RenderEngine/refs/heads/main/2.mp4">点击下载视频</a>
+
+#### 📲 立即下载体验
+
+[📩 点击下载 minigame.apk](minigame.apk)
+
+---
+
 ## 📺 专业研发团队：提供游戏定制一体化服务
 
 依托自研 **RenderEngine** 高性能引擎底座，我们不仅提供游戏开发，更提供从**容器集成、性能调优到多端分发**的全栈技术支撑。
