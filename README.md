@@ -58,6 +58,29 @@
 
 ---
 
+### app中显示3d宠物，虚拟角色，3d特效，3d礼物案例
+
+<img src="3.jpg?raw=true" width="30%" /><img src="31.jpg?raw=true" width="30%" />
+<a href="https://raw.githubusercontent.com/someone88-tech/RenderEngine/refs/heads/main/3.mp4">点击下载视频</a>
+
+#### 📲 立即下载体验
+
+[📩 点击下载 minigame.apk](minigame.apk)
+
+---
+
+### app中多开游戏，同屏多开游戏列表案例
+
+<img src="4.jpg?raw=true" width="30%" /><img src="41.jpg?raw=true" width="30%" />
+<a href="https://raw.githubusercontent.com/someone88-tech/RenderEngine/refs/heads/main/4.mp4">点击下载视频</a>
+
+#### 📲 立即下载体验
+
+[📩 点击下载 minigame.apk](minigame.apk)
+
+---
+
+
 ## 📺 专业研发团队：提供游戏定制一体化服务
 
 依托自研 **RenderEngine** 高性能引擎底座，我们不仅提供游戏开发，更提供从**容器集成、性能调优到多端分发**的全栈技术支撑。
