@@ -48,7 +48,6 @@
 ---
 
 ### 互动游戏 直播 聊天室 语聊房 内嵌游戏案例
-> **Mini Game 案例演示**
 
 <img src="2.jpg?raw=true" width="30%" /><img src="21.jpg?raw=true" width="30%" />
 <a href="https://raw.githubusercontent.com/someone88-tech/RenderEngine/refs/heads/main/2.mp4">点击下载视频</a>
