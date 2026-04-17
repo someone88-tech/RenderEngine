@@ -38,7 +38,7 @@
 ### 微信小程序/小游戏 运行实测
 > **Mini Game 案例演示**
 
-![Alt text](1.jpg?raw=true)
+<img src="1.jpg?raw=true" width="50%" />
 
 #### 📲 立即下载体验
 
