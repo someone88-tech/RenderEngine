@@ -38,7 +38,7 @@
 ### 微信小程序/小游戏 运行实测
 > **Mini Game 案例演示**
 
-<video src="1.mp4?raw=true" width="100%" poster="1.jpg" controls autoplay muted loop>
+<video src="https://github.com/someone88-tech/RenderEngine/raw/refs/heads/main/1.mp4?raw=true" width="100%" poster="1.jpg" controls autoplay muted loop>
 </video>
 
 #### 📲 立即下载体验
