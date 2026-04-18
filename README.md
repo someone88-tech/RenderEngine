@@ -42,7 +42,7 @@
 
 #### 📲 立即下载体验
 
-[📩 点击下载 minigame.apk](minigame.apk)
+[📩 点击下载试玩apk](res/minigame.apk)
 
 ---
 
