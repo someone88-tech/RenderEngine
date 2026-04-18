@@ -42,7 +42,7 @@
 
 #### 📲 立即下载体验
 
-[📩 点击下载试玩apk](res/minigame.apk)
+[📩 点击下载demo1.apk](https://raw.githubusercontent.com/someone88-tech/RenderEngine/refs/heads/main/res/demo1.apk)
 
 ---
 
@@ -53,7 +53,7 @@
 
 #### 📲 立即下载体验
 
-[📩 点击下载 minigame.apk](minigame.apk)
+[📩 点击下载demo2.apk](https://raw.githubusercontent.com/someone88-tech/RenderEngine/refs/heads/main/res/demo2.apk)
 
 ---
 
@@ -64,7 +64,7 @@
 
 #### 📲 立即下载体验
 
-[📩 点击下载 minigame.apk](minigame.apk)
+[📩 点击下载demo3.apk](https://raw.githubusercontent.com/someone88-tech/RenderEngine/refs/heads/main/res/demo3.apk)
 
 ---
 
@@ -75,7 +75,7 @@
 
 #### 📲 立即下载体验
 
-[📩 点击下载 minigame.apk](minigame.apk)
+[📩 点击下载demo4.apk](https://raw.githubusercontent.com/someone88-tech/RenderEngine/refs/heads/main/res/demo4.apk)
 
 ---
 
