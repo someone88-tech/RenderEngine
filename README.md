@@ -37,7 +37,7 @@
 
 ### 微信小程序/小游戏 运行实测
 
-<img src="1.jpg?raw=true" width="30%" /><img src="11.jpg?raw=true" width="30%" />
+<img src="res/1.jpg?raw=true" width="30%" /><img src="11.jpg?raw=true" width="30%" />
 > **<a href="https://raw.githubusercontent.com/someone88-tech/RenderEngine/refs/heads/main/1.mp4">点击下载视频</a>**
 
 #### 📲 立即下载体验
@@ -48,7 +48,7 @@
 
 ### 互动游戏 直播 聊天室 语聊房 内嵌游戏案例
 
-<img src="2.jpg?raw=true" width="30%" /><img src="21.jpg?raw=true" width="30%" />
+<img src="res/2.jpg?raw=true" width="30%" /><img src="21.jpg?raw=true" width="30%" />
 <a href="https://raw.githubusercontent.com/someone88-tech/RenderEngine/refs/heads/main/2.mp4">点击下载视频</a>
 
 #### 📲 立即下载体验
