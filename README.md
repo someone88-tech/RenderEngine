@@ -37,7 +37,8 @@
 
 ### 微信小程序/小游戏 运行实测
 
-<img src="res/1.jpg?raw=true" width="30%" /><img src="res/11.jpg?raw=true" width="30%" />
+<img src="res/1.jpg?raw=true" width="30%" /><img src="res/11.jpg?raw=true" width="30%" /><img src="res/12.jpg?raw=true" width="30%" />
+<img src="res/13.jpg?raw=true" width="30%" /><img src="res/14.jpg?raw=true" width="30%" />
 > **<a href="https://raw.githubusercontent.com/someone88-tech/RenderEngine/refs/heads/main/res/1.mp4">点击下载视频</a>**
 
 #### 📲 立即下载体验
